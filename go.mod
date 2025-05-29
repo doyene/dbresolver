@@ -1,4 +1,4 @@
-module gitee.com/duyg_go/dbresolver
+module github.com/doyene/dbresolver
 
 go 1.14
 
